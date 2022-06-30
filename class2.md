@@ -1,5 +1,7 @@
 # Class 2 reading notes
 
-* Here's my first note
+## Comparison of “basic” text editor vs coding-specific text editor vs IDE
+1. ### "basic" text editor
+<li></li> 
 * Here's another note
 *Remember, Drink Water*
